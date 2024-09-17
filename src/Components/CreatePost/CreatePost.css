@@ -1,0 +1,14 @@
+.CreatePostContainer
+{
+    background-color: inherit;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: inherit;
+        
+}
+
+.FormContainer
+{
+    width: 50%;
+}
